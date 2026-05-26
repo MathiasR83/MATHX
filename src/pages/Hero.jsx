@@ -24,7 +24,7 @@ export default function Hero() {
         <div className="w-full lg:w-2/5 flex justify-center lg:justify-end">
           <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-2xl overflow-hidden border border-neutral-800 shadow-2xl">
             <img 
-              src="../assets/face.jpeg" 
+              src="../src/assets/face.jpeg" 
               alt="Mathias Rodrigues" 
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
